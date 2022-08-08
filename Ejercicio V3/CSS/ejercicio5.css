@@ -1,0 +1,16 @@
+#contenedor{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #025950b1;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    color:#23bb59;
+    font-size: 40px;
+}
+
+
+p{
+    color: #18ff14;
+    font-size: 20px;
+}

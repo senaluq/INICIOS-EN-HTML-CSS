@@ -1,0 +1,17 @@
+#contenedor{
+    font-family: 'Courier New', Courier, monospace;
+    
+    background-color: #042940;
+    margin-left: auto;
+    margin-right: auto;
+}
+#tit1{
+    color: #DBF227;
+    font-size: 30px;
+}
+#tit2{
+    color: #9FC131;
+    font-size: 25px;
+}
+
+
