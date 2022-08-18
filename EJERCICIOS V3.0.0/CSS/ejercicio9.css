@@ -1,0 +1,40 @@
+#contenedor{
+    font-family: 'Courier New', Courier, monospace;
+    background-color:#404040;
+    margin-left: auto;
+    margin-right: auto;
+}
+#tit1{
+    color:#A64949 ;
+    font-size: 35px;
+}
+h3{
+    color:#8C3756;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+#n1{
+    color:#ffffff ;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#n2{
+    color:#ffffff ;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#n3{
+    color:#ffffff ;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#volver{
+color: #D98BA7;
+font-size: 15px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

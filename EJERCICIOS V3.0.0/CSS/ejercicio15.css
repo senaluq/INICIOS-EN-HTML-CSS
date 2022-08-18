@@ -1,0 +1,25 @@
+#contenedor{
+background-color: #162E25;
+}
+h3{
+    color: #7A577A;
+    font-size: 25px;
+}
+label{
+    color: aliceblue;
+}
+#promo{
+    color: aliceblue;
+}
+#vis{
+    color: aqua;
+}
+legend{
+    color: rgb(255, 0, 0);
+}
+text{
+    color: #ff6a00; 
+}
+#contador{
+    color: #ff6a00;
+}
