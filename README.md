@@ -12,27 +12,8 @@
 
 </div>
 
-### que se realizo ebn este repositorio ? :
-  - [Inicios de HTML5](#Inicios de HTML5)
-      - [GitHub Actions 🤖](#github-actions-)
-      - [Game Mode 🚀](#game-mode-)
-      - [Code Mode 👨🏽‍💻](#code-mode-)
-      - [Dynamic Realtime 💫](#dynamic-realtime-)
-      - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
-      - [Descriptive 🗒](#descriptive-)
-      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
-      - [Typing.. Mode 🎰](#typing-mode-)
-      -
-      - [Minimalistic ✨](#minimalistic-)
-      - [GIFS 👻](#gifs-)
-      - [Just Images 🎭](#just-images-)
-      - [Badges 🎫](#badges-)
-      - [Fancy Fonts 🖋](#fancy-fonts-)
-      - [Icons 🎯](#icons-)
-      - [Retro 😎](#retro-)
-  
-  - [Articles](#articles)
-  - 
-  - [Contribute](#contribute)
-  - [License](#license)
-
+### que se realizo en este repositorio ? :
+  - [Inicios de HTML5 😎 ](#Inicios-de-HTML5-)
+      - [Se modifica una serie de codigos de XHTML a HTML5🤖](#Se-modifica-una-serie-de-codigos-de-XHTML-a-HTML5-)
+      - [despues de actilizar la vercion de HTML SE VERICA EN LA AW3M 😃](#despues-de-actilizar-la-vercion-de-HTML-SE-VERICA-EN-LA-AW3M-)
+      
