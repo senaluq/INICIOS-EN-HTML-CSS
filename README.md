@@ -1,10 +1,10 @@
-<h1 align="center">Alejandro Luque  GitHub Profile README </h1>
+<h1 align="center">Alejandro Luque  bienvenido a mi README </h1>
 <div align="center">
 
 
 <br>
 
-<i>A curated list of awesome Github Profile READMEs</i>
+<i>mi nombre es alejandro luque estoy estudiando un tecnologo de analisis y programacion sofware en el sena mi ficha tecnica es 2558346 </i>
 
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
@@ -35,4 +35,5 @@
   - 
   - [Contribute](#contribute)
   - [License](#license)
+
 
