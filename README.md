@@ -12,8 +12,8 @@
 
 </div>
 
-### Contents:
-  - [Categories](#categories)
+### que se realizo ebn este repositorio ? :
+  - [Inicios de HTML5](#Inicios de HTML5)
       - [GitHub Actions 🤖](#github-actions-)
       - [Game Mode 🚀](#game-mode-)
       - [Code Mode 👨🏽‍💻](#code-mode-)
@@ -35,5 +35,4 @@
   - 
   - [Contribute](#contribute)
   - [License](#license)
-
 
