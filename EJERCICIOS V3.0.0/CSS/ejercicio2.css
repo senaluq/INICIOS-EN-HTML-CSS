@@ -1,0 +1,26 @@
+#contenedor {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #D6D58E;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    color: #DBF227;
+    font-size: 40px;
+}
+
+#tit1 {
+    color: aliceblue;
+    font-size: 30px;
+}
+
+#tit2 {
+    color: #005C53;
+    font-size: 25px;
+}
+
+#tit3 {
+    color: #042940;
+    font-size: 20px;
+}

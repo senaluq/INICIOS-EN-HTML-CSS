@@ -1,0 +1,76 @@
+#contenedor {
+    background-color: #284259;
+}
+
+h2 {
+    color: #c8c8c8;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+caption {
+    color: #43ff1e;
+    font-size: 20;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: #80A2BF;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#lik {
+    color: #826026;
+    font-size: 20;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+strong {
+    color: #ff003c;
+    font-size: 20;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+th {
+    color: #E3371E;
+    font-size: 20;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+td {
+    color: #FFD933;
+    font-size: 20;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#pan {
+    color: #EF1BF2;
+    font-size: 20;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#pan1 {
+    color: #EF1BF2;
+    font-size: 20;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#num1 {
+    color: #ffffff;
+    font-size: 20;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#num2 {
+    color: #ffffff;
+    font-size: 20;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}

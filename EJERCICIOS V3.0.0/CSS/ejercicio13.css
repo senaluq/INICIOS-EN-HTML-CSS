@@ -1,0 +1,25 @@
+#contenedor {
+    background-color: #0A4F5F;
+}
+
+h1 {
+    color: #F8E30C;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: #B91251;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+br {
+    color: #796F0C;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#ni {
+    color: aliceblue;
+}

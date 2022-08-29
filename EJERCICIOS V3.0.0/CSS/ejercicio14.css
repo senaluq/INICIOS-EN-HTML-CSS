@@ -1,0 +1,31 @@
+#contenedor {
+    background-color: #193C40;
+}
+
+h3 {
+    color: aliceblue;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+legend {
+    color: #D96941;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+label {
+    color: #A62B1F;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+option {
+    color: rgb(255, 140, 0);
+    font-size: 15px;
+}
+
+#text1 {
+    color: rgb(255, 140, 0);
+    font-size: 15px;
+}
