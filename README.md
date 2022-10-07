@@ -1,3 +1,6 @@
+<p>
+<img src="https://media.giphy.com/media/hvEdKpliYKcY0s4Pak/giphy.gif" alt="">
+</p>
 <h1 align="center">Alejandro Luque  bienvenido a mi README </h1>
 <div align="center">
 
