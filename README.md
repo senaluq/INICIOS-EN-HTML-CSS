@@ -1,7 +1,7 @@
-<p>
-<img src="https://media.giphy.com/media/hvEdKpliYKcY0s4Pak/giphy.gif" alt="">
-</p>
-<h1 align="center">Alejandro Luque  bienvenido a mi README </h1>
+
+<h1 align="center">
+  Alejandro Luque  bienvenido a mi README </h1>
+  <img src="https://media.giphy.com/media/hvEdKpliYKcY0s4Pak/giphy.gif" alt="">
 <div align="center">
 
 
